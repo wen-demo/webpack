@@ -592,11 +592,9 @@ var __webpack_exports__ = {};
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _index_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./index.scss */ "./src/index.scss");
 
-
 window.alert('hello world!');
-
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle.05891678fb3013ad63cd.js.map
+//# sourceMappingURL=bundle.418281d1a10ff6ca22b3.js.map
