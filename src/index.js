@@ -1,3 +1,3 @@
 import './index.scss';
 
-window.alert('Hello world!');
+window.alert('hello world!');
