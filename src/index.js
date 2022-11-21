@@ -1,3 +1,6 @@
 import './index.scss';
+import testImage from './test.svg';
 
-window.alert('hello world!');
+console.log({
+  testImage
+});
